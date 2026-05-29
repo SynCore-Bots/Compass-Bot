@@ -1,0 +1,12 @@
+{
+  "name": "compass-bot",
+  "version": "1.0.0",
+  "description": "Compass Bot - Moderation & Application System",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "discord.js": "^14.21.0"
+  }
+}
